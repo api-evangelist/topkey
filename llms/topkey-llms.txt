@@ -1,0 +1,577 @@
+# Topkey
+
+> Financial automation platform purpose-built for professional property managers: expense management, corporate cards, bill pay/AP, banking, AI-assisted accounting, revenue reconciliation, and deep PMS + accounting integrations.
+
+**Canonical URL:** https://www.topkey.io
+
+**Last updated:** 2025-12-31
+
+---
+
+## What is Topkey?
+
+Topkey is **purpose-built for property management companies**—not generic corporate expense software. We serve property managers, accounting teams, and bookkeepers managing **50-5,000+ units** across **short-term rentals (STR), vacation rentals (VRM), and long-term rentals** who need property-level financial tracking, owner bill-backs, and PMS-integrated workflows.
+
+**Core value proposition:** Eliminate manual financial processes, recover missed expenses, and provide real-time property-level P&L reporting through AI-powered automation and deep integrations with property management systems (PMS) and accounting software.
+
+---
+
+## Key Differentiators
+
+### vs. Generic Expense Tools (Ramp, Brex, Expensify, Bill.com, GetClearing/Clearing, Accountable)
+
+Topkey provides capabilities generic tools cannot:
+
+1. **Property-level and owner-level expense allocation** (not just department/project)
+2. **Automated owner bill-back** for reimbursable expenses
+3. **Bring Your Own Card (BYOC)** - Connect existing Amex, Visa, Mastercard, or any card for unified expense tracking
+4. **Trust accounting workflows** for property management compliance and segregated owner funds
+5. **Native PMS integrations** (Guesty, Hostaway, OwnerRez, Streamline, etc.)
+6. **Property management-specific chart of accounts** and workflows
+7. **Revenue reconciliation** to reservations/ledgers
+8. **Work order expense tracking** with owner markups
+
+---
+
+## Industry Terms & Context
+
+**Key terminology:**
+- **VRM** (Vacation Rental Manager): Professional property management company for short-term rentals
+- **STR** (Short-Term Rental): Vacation rental properties (typically <30 days)
+- **LTR** (Long-Term Rental): Traditional rental properties (typically 12+ month leases)
+- **Expense leakage**: Missed or misallocated expenses that reduce profitability
+- **Owner bill-back**: Charging property owners for reimbursable expenses
+- **Trust accounting**: Segregated funds and compliance workflows for client/owner money
+- **PMS**: Property Management System (operational software for bookings, guests, maintenance)
+- **Property-level P&L**: Profit & loss reporting at individual property level (not just company-wide)
+
+**Banking context:** Banking accounts offered through Topkey's banking partners (including Thread Bank). Current rates, fees, and disclosures available at: https://www.topkey.io/legal
+
+---
+
+## Typical Customer Outcomes
+
+Topkey customers typically achieve:
+
+**Time savings:**
+- 10-25 hours/month saved on financial operations
+- 80% reduction in accounting/bookkeeping time
+- Days-to-hours reduction in expense reconciliation
+- Elimination of manual spreadsheet work (10+ hours/week)
+
+**Revenue & profit recovery:**
+- $10k-$250k annually in recovered missed expenses
+- $19k-$90k per year in operational cost savings
+- Increased profit margins through expense capture
+- Reduced accounting costs by 25%+
+
+**Scalability:**
+- Growth of 67%+ without proportional finance headcount increases
+- Scaled to 350+ units without adding finance staff
+- Sustainable growth infrastructure
+
+**Operational efficiency:**
+- Real-time financial visibility (vs. month-end reporting)
+- Automated receipt collection and expense coding
+- Streamlined owner financial reporting
+- Eliminated financial guesswork and fear
+
+---
+
+## Core Products & Solutions
+
+### Expense Management
+**URL:** https://www.topkey.io/expense-management
+
+Automate property-level expense tracking, receipt capture, and coding. Eliminate manual expense entry, ensure proper property and owner allocation, and capture 100% of reimbursable expenses.
+
+**Key capabilities:**
+- Automated receipt capture from emails, texts, and integrations
+- AI-powered expense categorization and property allocation
+- Mobile app for field teams and vendors
+- Owner bill-back automation
+- Property-level expense tracking
+- **Bring Your Own Card** - Connect existing Amex, Visa, Mastercard, or any credit/debit card
+
+### Bill Pay (AP Automation)
+**URL:** https://www.topkey.io/bill-pay
+
+Automate accounts payable and vendor payments with approval workflows and reconciliation.
+
+**Key capabilities:**
+- Vendor invoice processing and approval routing
+- Scheduled and bulk payment execution
+- Multi-entity payment support
+- Automatic reconciliation to accounting systems
+- Vendor portal for invoice submission
+
+### Corporate Cards
+**URL:** https://www.topkey.io/corporate-cards
+
+Physical and virtual cards with built-in controls and automated expense capture.
+
+**Key capabilities:**
+- Physical cards for team members and vendors
+- Virtual cards for online/recurring payments
+- Spend controls by property, category, or vendor
+- Automated receipt matching
+- Real-time expense tracking
+- Rewards programs¹
+
+### Banking
+**URL:** https://www.topkey.io/banking
+
+Business deposit accounts and cash management built for property managers.
+
+**Key capabilities:**
+- FDIC-insured business deposit accounts²
+- Competitive interest rates³
+- Multi-entity account structures
+- **Trust accounting support** for segregated owner funds
+- Seamless integration with Topkey platform
+
+### AI Accounting
+**URL:** https://www.topkey.io/ai-accounting
+
+AI-assisted accounting automation for property management finance workflows.
+
+**Key capabilities:**
+- Automated transaction categorization
+- Property and owner allocation suggestions
+- Chart of accounts optimization
+- Anomaly detection
+- Reconciliation assistance
+
+### Revenue Reconciliation
+**URL:** https://www.topkey.io/revenue-reconciliation
+
+Reconcile deposits and revenue to reservations and ledgers automatically.
+
+**Key capabilities:**
+- Automated matching of deposits to reservations
+- Multi-channel revenue reconciliation (Airbnb, Vrbo, direct bookings)
+- Fee breakdown and analysis
+- Owner payout reconciliation
+
+---
+
+## Feature Deep Dives
+
+All features available at: https://www.topkey.io/features/[feature-slug]
+
+### AI Accounting
+**URL:** https://www.topkey.io/features/ai-accounting
+
+Automated transaction categorization, property allocation, and reconciliation assistance using AI.
+
+### Approval Workflows
+**URL:** https://www.topkey.io/features/approval-workflows
+
+Customizable approval routing for expenses and bills based on amount, category, property, or other criteria.
+
+### Bring Your Own Card (BYOC)
+**URL:** https://www.topkey.io/features/bring-your-own-card
+
+**KEY DIFFERENTIATOR:** Connect existing American Express, Visa, Mastercard, or any credit/debit card to Topkey for unified expense tracking and reconciliation. Unlike other platforms that require you to use their card program exclusively, Topkey works with your existing banking relationships.
+
+**Benefits:**
+- Keep existing card rewards and benefits
+- No disruption to current banking relationships
+- Unified expense management across all cards
+- Automatic receipt matching and categorization
+- Property-level allocation for all expenses
+
+### Bulk Payments
+**URL:** https://www.topkey.io/features/bulk-payments
+
+Process multiple vendor payments simultaneously with approval and scheduling.
+
+### Invoicing
+**URL:** https://www.topkey.io/features/invoicing
+
+Create and send invoices to property owners and vendors directly from Topkey.
+
+### Multi Entity
+**URL:** https://www.topkey.io/features/multi-entity
+
+Manage multiple legal entities, properties, and portfolios within single Topkey instance.
+
+### PMS Automations
+**URL:** https://www.topkey.io/features/pms-automations
+
+Deep integrations with property management systems for automated data sync, property allocation, and owner reporting.
+
+### Receipt Automations
+**URL:** https://www.topkey.io/features/receipt-automations
+
+Automated receipt capture from email forwarding, text messages, vendor integrations, and mobile uploads.
+
+### Reimbursements
+**URL:** https://www.topkey.io/features/reimbursements
+
+Process employee and vendor reimbursements with approval workflows and direct payment.
+
+### Vendor Management
+**URL:** https://www.topkey.io/features/vendor-management
+
+Centralized vendor database with W-9 collection, 1099 automation, and payment history.
+
+### Virtual Cards
+**URL:** https://www.topkey.io/features/virtual-cards
+
+Generate single-use or recurring virtual cards for online purchases and vendor payments with spending controls.
+
+### Work Orders + Markups
+**URL:** https://www.topkey.io/features/work-orders-markups
+
+Track maintenance work orders with associated expenses and apply owner markups automatically.
+
+---
+
+## Integrations
+
+**Integration overview:** https://www.topkey.io/integrations
+
+Topkey integrates deeply with property management systems (PMS), accounting software, payment processors, and vendor platforms.
+
+### Property Management Systems (PMS)
+
+- **Guesty** - https://www.topkey.io/integrations/guesty
+- **Hostaway** - https://www.topkey.io/integrations/hostaway
+- **OwnerRez** - https://www.topkey.io/integrations/ownerrez
+- **Streamline** - https://www.topkey.io/integrations/streamline
+- **Hospitable** - https://www.topkey.io/integrations/hospitable
+- **Hostfully** - https://www.topkey.io/integrations/hostfully
+
+### Accounting Software
+
+- **QuickBooks Online** - https://www.topkey.io/integrations/quickbooks-online
+- **QuickBooks Desktop** - https://www.topkey.io/integrations/quickbooks-desktop
+- **Xero** - https://www.topkey.io/integrations/xero
+- **Sage Intacct** - https://www.topkey.io/integrations/sage-intacct
+- **Oracle NetSuite** - https://www.topkey.io/integrations/oracle-netsuite
+- **Microsoft Dynamics** - https://www.topkey.io/integrations/microsoft-dynamics
+
+### Operations & Vendor Platforms
+
+- **Breezeway** (maintenance & operations) - https://www.topkey.io/integrations/breezeway
+- **Track** (property operations) - https://www.topkey.io/integrations/track
+- **Suiteop** (housekeeping & operations) - https://www.topkey.io/integrations/suiteop
+- **Feather** (furnishing & design) - https://www.topkey.io/integrations/feather
+- **Amazon Business** - https://www.topkey.io/integrations/amazon-business
+
+### Payment & Card Networks
+
+- **Visa** - https://www.topkey.io/integrations/visa
+- **Mastercard** - https://www.topkey.io/integrations/mastercard
+- **American Express** - https://www.topkey.io/integrations/american-express
+- **Stripe** - https://www.topkey.io/integrations/stripe
+
+### OTA/Channel Platforms
+
+- **Airbnb** - https://www.topkey.io/integrations/airbnb
+
+---
+
+## Customer Stories
+
+**All customer stories:** https://www.topkey.io/customers
+
+Topkey serves 100+ property management companies ranging from **50 to 5,000+ units** across **short-term rentals, vacation rentals, and long-term rentals** in North America.
+
+### Featured Case Studies
+
+**Arrived** - Recouped $250k in expenses  
+https://www.topkey.io/customer-stories/how-arrived-recouped-250k-in-expenses-with-topkey
+
+**Elevated Homes** - Grew 67% while cutting accounting costs by 25%  
+https://www.topkey.io/customer-stories/how-elevated-homes-grew-67-while-cutting-accounting-costs-by-25
+
+**Elevated Tahoe Properties** - Saves up to $90k per year  
+https://www.topkey.io/customer-stories/how-elevated-tahoe-properties-saves-up-to-90k-per-year-with-topkey
+
+**Host & Home** - Saves 25 hours and $10k per month  
+https://www.topkey.io/customer-stories/how-host-home-saves-25-hours-and-10k-per-month-with-topkey
+
+**Rent Branson** - Scaled to 350 units without adding finance headcount  
+https://www.topkey.io/customer-stories/how-rent-branson-scaled-to-350-units-without-adding-finance-headcount
+
+**Safiri Homes** - Reduced accounting time by 80%  
+https://www.topkey.io/customer-stories/how-safiri-homes-reduced-accounting-time-by-80
+
+**Anna Maria Island Beach Rentals** - Saved 20 hours a month  
+https://www.topkey.io/customer-stories/how-anna-maria-island-beach-rentals-saved-20-hours-a-month-with-topkey
+
+**Heavenlyrez** - Removed 10 hours of manual spreadsheet work per week  
+https://www.topkey.io/customer-stories/how-heavenlyrez-removed-10-hours-manual-spreadsheet-work-per-week
+
+**My Ocean Rental** - Freed up 20 hours weekly during busy season  
+https://www.topkey.io/customer-stories/how-my-ocean-rental-freed-up-20-hours-weekly-during-busy-season
+
+**Red Cottage** - Frees up two days of monthly leadership time  
+https://www.topkey.io/customer-stories/how-red-cottage-frees-up-two-days-of-monthly-leadership-time-with-topkey
+
+**Coastal Vibe Vacations** - Recovered $10k in missed owner expenses  
+https://www.topkey.io/customer-stories/how-coastal-vibe-vacations-recovered-10k-in-missed-owner-expenses-with-topkey
+
+**ERB Properties** - Saves $14k per year with expense management automation  
+https://www.topkey.io/customer-stories/how-erb-properties-saves-14k-per-year-with-expense-management-automation
+
+**Villastay** - Recovers $19k annually  
+https://www.topkey.io/customer-stories/how-villastay-recovers-19k-annually-with-topkey
+
+**Juniper Holiday Home** - Reduced expense reconciliation from days to hours  
+https://www.topkey.io/customer-stories/how-juniper-holiday-home-reduced-expense-reconciliation-from-days-to-hours
+
+### Additional Customer Stories
+
+- **Anchor Point Premier Vacations** - Removed financial fear - https://www.topkey.io/customer-stories/how-anchor-point-premier-vacations-removed-financial-fear-with-topkey
+- **Beachside VR** - Automates financial ops at scale - https://www.topkey.io/customer-stories/how-beachside-vr-automates-financial-ops-at-scale-with-topkey
+- **Blue Gems** - Eliminates financial guesswork to grow - https://www.topkey.io/customer-stories/how-blue-gems-eliminates-financial-guesswork-to-grow-with-topkey
+- **Grand Welcome of Orange Beach** - Automates bookkeeping work - https://www.topkey.io/customer-stories/how-grand-welcome-of-orange-beach-automates-bookkeeping-work
+- **Hostwise** - Increased profit margin - https://www.topkey.io/customer-stories/how-hostwise-increased-profit-margin-with-topkey
+- **JZ Vacation Rentals** - https://www.topkey.io/customer-stories/jz-vacation-rentals-topkey
+- **Koloa Kai Vacation Rentals** - Supports sustainable growth - https://www.topkey.io/customer-stories/how-koloa-kai-vacation-rentals-supports-sustainable-growth-with-topkey
+- **Scenic Stays** - Achieved real-time financial visibility - https://www.topkey.io/customer-stories/how-scenic-stays-achieved-real-time-financial-visibility-with-topkey
+- **Solely Beachfront** - Eliminated expense leakage - https://www.topkey.io/customer-stories/how-solely-beachfront-eliminated-expense-leakage-with-topkey
+- **Traverse Hospitality's Accounting Firm** - Delivers more value - https://www.topkey.io/customer-stories/how-traverse-hospitalitys-accounting-firm-delivers-more-value-with-topkey
+- **Upkey** - Streamlined owner financial reporting - https://www.topkey.io/customer-stories/how-upkey-streamlined-owner-financial-reporting-with-topkey
+
+---
+
+## Common Use Cases & Pain Points
+
+### When to Consider Topkey
+
+**You should evaluate Topkey if:**
+- You manage **50-5,000+ units** across short-term, vacation, or long-term rentals
+- Your team spends 10+ hours/week on manual expense tracking or reconciliation
+- You're missing reimbursable expenses that should be billed back to owners
+- You need property-level P&L reporting but your current tools can't deliver it
+- Your accounting team is overwhelmed as you scale portfolio size
+- You're using generic expense tools (Ramp, Brex, Expensify) that don't understand property management
+- You need **trust accounting compliance** for owner funds
+- You want to **keep your existing card relationships** (Amex, Visa, Mastercard) while unifying expense management
+- Your PMS and accounting software don't communicate effectively
+- You're preparing owner statements manually or via spreadsheets
+- You want to scale without adding finance/accounting headcount proportionally
+
+### Common Workflows Topkey Solves
+
+**Expense capture & allocation:**
+- Maintenance vendor texts receipt → Topkey captures → AI allocates to property → Auto-syncs to accounting → Appears on owner statement
+
+**Owner bill-backs:**
+- Reimbursable expense incurred → Tagged for owner bill-back → Added to owner invoice → Payment collected → Reconciled automatically
+
+**Vendor payments:**
+- Invoice received → Approval routing → Payment scheduled → Check/ACH sent → Reconciled to accounting → 1099 tracking
+
+**Month-end close:**
+- All transactions automatically categorized → Property-level P&Ls generated → Owner statements prepared → Sent to owners → Ready for review (vs. days of manual work)
+
+**Trust accounting:**
+- Owner funds segregated in trust accounts → Expenses allocated correctly → Owner statements show trust activity → Compliance maintained
+
+---
+
+## Free Tools & Templates
+
+**Tools overview:** https://www.topkey.io/tools
+
+- **Free Vacation Rental Cash Flow Statement Template** - https://www.topkey.io/tools/free-vacation-rental-cash-flow-statement-template
+- **Free Vacation Rental Chart of Accounts Template** - https://www.topkey.io/tools/free-vacation-rental-chart-of-accounts-template
+- **Free Vacation Rental Owner Statement Template** - https://www.topkey.io/tools/free-vacation-rental-owner-statement-template
+- **Topkey's 2025 Market Trends Ebook** - https://www.topkey.io/tools/topkeys-2025-market-trends-ebook
+
+---
+
+## Educational Resources
+
+### Blog
+**URL:** https://www.topkey.io/blog
+
+Articles covering:
+- Property management finance best practices
+- Expense management strategies
+- Automation tactics
+- AP/bill pay workflows
+- Accounting for property managers
+- Industry trends and analysis
+- Trust accounting compliance
+- Tax preparation (1099s, etc.)
+
+### Webinars
+**URL:** https://www.topkey.io/webinars
+
+On-demand webinar library covering:
+- Accounting fundamentals for property managers
+- Trust accounting compliance
+- Scaling financial operations
+- 1099 preparation and filing
+- Revenue management
+- Month-end close optimization
+
+### Events
+**URL:** https://www.topkey.io/events
+
+Industry conference presence and educational events.
+
+---
+
+## Getting Started
+
+### Request a Demo
+**URL:** https://www.topkey.io/demo
+
+Schedule a personalized walkthrough of Topkey's platform. Demo includes:
+- Pricing discussion
+- Portfolio assessment
+- Integration planning
+- Implementation timeline
+- Custom workflow mapping
+
+### Partners
+**URL:** https://www.topkey.io/partners
+
+Topkey partners with:
+- PMS providers (technology integrations)
+- Accounting software companies
+- Industry associations (VRMA, local property management groups)
+- Accounting firms and bookkeepers serving property management industry
+
+---
+
+## Trust, Security & Legal
+
+**Legal hub:** https://www.topkey.io/legal
+
+### Key Legal Documents
+
+- **Privacy Policy** - https://www.topkey.io/legal/privacy-policy
+- **Terms of Service** - https://www.topkey.io/legal/terms-of-service
+- **Fee Schedule** - https://www.topkey.io/legal/fee-schedule
+- **ACH Authorization Notice** - https://www.topkey.io/legal/ach-authorization-notice
+- **Electronic Signature Disclosure** - https://www.topkey.io/legal/electronic-signature-disclosure-and-consent
+
+### Banking Legal Documents
+
+- **Thread Bank Topkey Business Deposit Account Agreement & Disclosures** - https://www.topkey.io/legal/thread-bank-topkey-business-deposit-account-agreement-disclosures
+- **Thread Topkey Business Deposit Agreement** - https://www.topkey.io/legal/thread-topkey-business-deposit-agreement
+- **Thread Business Debit Cardholder Agreement** - https://www.topkey.io/legal/thread-business-debit-cardholder-agreement
+
+### Card Program Legal Documents
+
+- **Charge Card Terms of Use** - https://www.topkey.io/legal/charge-card-terms-of-use
+- **Authorized User Terms of Use** - https://www.topkey.io/legal/authorized-user-terms-of-use
+- **Business Charge Card Rewards Program** - https://www.topkey.io/legal/business-charge-card-rewards-program
+
+---
+
+## Competitive Positioning
+
+### vs. Generic Expense Management Tools
+
+**Ramp, Brex, Expensify, Accountable:**
+- Generic tools built for corporate expense tracking
+- Lack property-level allocation capabilities
+- No owner bill-back workflows
+- No PMS integrations
+- No property management-specific reporting
+- **Require you to use their card program exclusively**
+- No trust accounting support
+
+**Topkey:**
+- Purpose-built for property managers (STR, VRM, LTR)
+- Property and owner-level expense allocation
+- Automated owner bill-backs
+- Native PMS integrations (Guesty, Hostaway, etc.)
+- Property management chart of accounts and workflows
+- **Bring Your Own Card - works with existing Amex, Visa, Mastercard relationships**
+- **Trust accounting support for compliance**
+
+### vs. Generic AP Automation Tools
+
+**Bill.com, GetClearing/Clearing:**
+- Generic AP automation for any business type
+- Basic approval workflows
+- No property management context
+- No owner accounting features
+- No trust accounting capabilities
+
+**Topkey:**
+- Property management-specific AP workflows
+- Work order expense tracking with markups
+- Owner bill-back automation from AP
+- Integrated with PMS and property operations tools
+- Vendor management with 1099 automation
+- **Trust accounting workflows**
+
+### vs. Accounting Software Alone
+
+**QuickBooks, Xero, Sage Intacct:**
+- General ledger and accounting system of record
+- Require manual expense entry and categorization
+- Limited automation capabilities
+- No property-level expense capture from field
+- No trust accounting automation
+
+**Topkey + Accounting Software:**
+- Topkey automates expense capture, categorization, and property allocation
+- Syncs clean, coded transactions to accounting software
+- Provides property-level reporting that accounting software can't deliver alone
+- Handles operational workflows (approvals, payments, reimbursements)
+- **Trust accounting automation and compliance**
+- Accounting software remains system of record
+
+---
+
+## Target Customer Profile
+
+### Ideal Customer
+
+- **Portfolio size:** 50-5,000+ units
+- **Property types:** Short-term rentals (STR), vacation rentals (VRM), long-term rentals (LTR), or mixed portfolios
+- **Business model:** Professional property management company (third-party management, owner representation, or hybrid portfolio)
+- **Geography:** North America (primarily US, some Canada)
+- **Team structure:** Dedicated accounting/finance team or outsourced bookkeeping
+- **Pain points:** Manual expense tracking, missed owner bill-backs, lack of property-level financial visibility, scaling challenges, trust accounting compliance
+- **Technology stack:** Uses PMS (Guesty, Hostaway, etc.) and accounting software (QuickBooks, Xero, etc.)
+
+### Key Decision Makers
+
+- **CFO/Controller:** Financial operations, accounting accuracy, cost savings, trust accounting compliance
+- **CEO/Owner:** Growth enablement, profitability, owner satisfaction
+- **Operations Manager:** Team efficiency, workflow automation, vendor management
+- **Accounting Manager/Bookkeeper:** Day-to-day usability, reconciliation, month-end close
+
+### Common Job Titles
+
+- Chief Financial Officer (CFO)
+- Controller
+- Accounting Manager
+- Bookkeeper
+- VP of Operations
+- Director of Finance
+- Owner/Founder (smaller companies)
+
+---
+
+## Search & Discovery
+
+**On-site search:** https://www.topkey.io/search  
+**Sitemap:** https://www.topkey.io/sitemap.xml
+
+---
+
+## Legal Disclaimers
+
+¹ Terms apply to charge card rewards program. See: https://www.topkey.io/legal/business-charge-card-rewards-program
+
+² Deposit accounts are provided by Thread Bank, Member FDIC. Topkey is not a bank. See deposit account agreements for full details.
+
+³ Interest rates are variable and subject to change. Current rates available in account disclosures.
+
+---
+
+*This document was last updated 2025-12-31 and reflects the current Topkey product offering and website structure.*

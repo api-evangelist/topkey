@@ -1,7 +1,30 @@
 aid: topkey
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/topkey.png
 name: TopKey
-description: TopKey is a company surfaced as a portfolio company of a16z, felicis and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  TopKey is an AI-powered financial operating system purpose-built for
+  professional short-term rental, vacation rental, and long-term rental property
+  managers running 50-5,000+ units. It automates property-level and owner-level
+  expense management, corporate and bring-your-own cards (BYOC), bill pay / AP,
+  banking through partner banks (Thread Bank, Member FDIC), AI-assisted
+  accounting, inventory, invoicing, work-order expense tracking, and revenue
+  reconciliation. TopKey integrates deeply with property management systems
+  (Guesty, Hostaway, OwnerRez, Streamline, Track, Hostfully) and accounting
+  software (QuickBooks Online, Xero, Sage Intacct, Oracle NetSuite). Backed by
+  a16z and Felicis. TopKey consumes partner APIs for its integrations but does
+  not publish a public developer API or OpenAPI at this time; it ships a product
+  help center and a machine-readable llms.txt.
 url: https://raw.githubusercontent.com/api-evangelist/topkey/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +35,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Fintech
+- Expense Management
+- Property Management
+- Accounting
+- Short-Term Rentals
+- Vacation Rentals
+- Banking
+- Bill Pay
+- Corporate Cards
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +56,24 @@ maintainers:
 common:
 - type: Website
   url: https://topkey.io
+- type: Documentation
+  url: https://docs.topkey.io
+- type: Blog
+  url: https://topkey.io/blog
+- type: Login
+  url: https://app.topkey.io/users/sign_in
+- type: Support
+  url: mailto:support@topkey.io
+- type: TermsOfService
+  url: https://topkey.io/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://topkey.io/legal/privacy-policy
+- type: LLMsTxt
+  url: llms/topkey-llms.txt
+- type: DomainSecurity
+  url: security/topkey-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
